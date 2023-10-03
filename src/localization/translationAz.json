@@ -1,0 +1,148 @@
+{
+  "Navbar": {
+      "Home": "Ana səhifə",
+      "About": "Haqqımızda",
+      "Services": "Xidmətlər",
+      "Contact": "Əlaqə"
+  },
+  "Slider": {
+      "slide_1": {
+          "title": "WE MAKE STRONGEST SERVICE ABOVE THE WORLD",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+          "button_1": "Our Service",
+          "button_2": "Get a Quate"
+      },
+      "slide_2": {
+          "title": "WE MAKE STRONGEST SERVICE ABOVE THE WORLD",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+          "button_1": "Our Service",
+          "button_2": "Get a Quate"
+      }
+  },
+  "Blog": {
+      "item_1": {
+          "title": "Ocean freight",
+          "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+      },
+      "item_2": {
+          "title": "Air freight",
+          "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+      },
+      "item_3": {
+          "title": "Street freight",
+          "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+      }
+  },
+  "Experience": {
+      "Form": {
+          "Your_name": "Your name",
+          "Email": "Email",
+          "Phone": "Phone",
+          "Type": "Type",
+          "Quantity": "Quantity",
+          "Destination": "Destination",
+          "Your_message": "Your message"
+      },
+      "Passion": {
+          "title": "We have 25 years experience in this passion",
+          "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum,",
+          "button": "Read more"
+      },
+      "Boxes": {
+          "title_1": "Project Done",
+          "title_2": "Project Done",
+          "title_3": "Project Done"
+      }
+  },
+  "Services": {
+      "title": "Our service",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,",
+      "left_box": {
+          "title": "WE OFFER QUICK & POWERFUL LOGISTICS SOLUTION",
+          "description": "I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you.",
+          "button": "Learn more"
+      },
+      "right_box": {
+          "title": "WHY CHOOSE US ?",
+          "description": "I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you.",
+          "list_1": " Lorem ipsum dolor sit amet, consectetur.",
+          "list_2": " Sed quia consequuntur magni dolores eos.",
+          "list_3": "Nemo enim ipsam voluptatem .",
+          "list_4": "We denounce with righteous indignation.",
+          "button": "Learn more"
+      }
+  },
+  "Categories": {
+      "item_1": {
+          "title": "Ware house",
+          "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,"
+      },
+      "item_2": {
+          "title": "ROAD FREIGHT",
+          "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,"
+      },
+      "item_3": {
+          "title": "SEA FREIGHT",
+          "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,"
+      },
+      "item_4": {
+          "title": "AIR FREIGHT",
+          "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,"
+      }
+  },
+  "Specification": {
+      "item_1": {
+          "title": "OUR LOCATION",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "item_2": {
+          "title": "24/7 SUPPORT",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "item_3": {
+          "title": "LATEST NEWS",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "item_4": {
+          "title": "FAST DELEVERY",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      }
+  },
+  "Quote":{
+      "title":"WE PROVIDE INTERNATIONAL FREIGHT & LOGISTICS SERVICE WORLDWIDE",
+      "button":"Get a quote"
+  },
+  "Clients":{
+      "title":"WHAT CLIENT'S SAY",
+      "client_1":{
+          "name":"Jabin Kane",
+          "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+          "job":"CEO, TOPSMMPANEL.COM"
+      },
+      "client_2":{
+          "name":"Jabin Kane",
+          "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+          "job":"CEO, TOPSMMPANEL.COM"
+      },
+      "client_3":{
+          "name":"Jabin Kane",
+          "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
+          "job":"CEO, TOPSMMPANEL.COM"
+      }
+  },
+  "Footer":{
+      "newsletter":{
+          "title":"Weekly Newsletter",
+          "text":"There are many vaiations of passages of lorem ipsum available.",
+          "mail":"Enter yor mail",
+          "button":"Subscribe"
+      },
+      "menu_1":{
+          "list_1":"",
+          "list_2":"",
+          "list_3":"",
+          "list_4":""
+      }
+  }
+  
+}
