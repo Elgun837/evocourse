@@ -70,6 +70,7 @@ a {
 nav {
     display: flex;
     justify-content: space-between;
+    padding: 20px;
 }
 
 nav ul {
@@ -84,8 +85,14 @@ nav ul li {
 }
 
 nav ul li a {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    color: #ffffff;
+    letter-spacing: 1px;
+    padding: 40px 15px;
+    text-transform: uppercase;
+    -webkit-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
     text-decoration: none;
-    color:white
 }
 .swiper-slide:before {
     background: #3c4147;
@@ -103,4 +110,9 @@ header{
     top: 0;
     z-index: 2;
     width: 100%;
+    border-bottom: 1px solid rgba(243, 156, 18, .4);
+}
+header .menu{
+    display: flex;
+    align-items: center;
 }
